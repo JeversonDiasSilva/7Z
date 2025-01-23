@@ -9,3 +9,10 @@ Configuração do sistema de extração 7z no batocera v.40 2025 LEVEL UP!
 ```bash
 curl -L https://raw.githubusercontent.com/JeversonDiasSilva/7Z/main/RUN.sh | bash
 ```
+<br>
+# COMO USAR :
+<h2>depois que estiver feito a instalação, basta abrir a pasta com o "ARQUIVO.7Z" no termonal e rodar</h2>
+<br>
+```bash
+7z "ARQUIVO.7Z"
+```
